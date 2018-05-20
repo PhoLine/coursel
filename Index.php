@@ -108,18 +108,8 @@ array (
 						);
 				
 	}
-	if($pesan_datang=='Hi'){
-		
-		
-		$balas = array(
-							'replyToken' => $replyToken,														
-							'messages' => array(
-								array(
-										'type' => 'text',					
-										'text' => 'Halo'
-									)
-							)
-						);
+
+						
 				
 	}
 }
